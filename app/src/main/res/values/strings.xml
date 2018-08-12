@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OrangeTask</string>
+
+    <string name="id">id</string>
+    <string name="name">name</string>
+    <string name="icon">icon</string>
+    <string name="cat">cat</string>
+
+
+</resources>
